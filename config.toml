@@ -1,0 +1,24 @@
+languageCode = "es-MX"
+title = "Rómpela"
+baseurl = "http://rompela.mx/"
+theme = "landing-page-hugo"
+
+[params]
+    description = "Inteligencia en redes sociales"
+
+[[params.social]]
+    title = "Correo"
+    icon = "envelope-o"
+    url = "mailto:contacto@rompela.mx"
+[[params.social]]
+    title = "twitter"
+    icon = "twitter"
+    url = "https://twitter.com/RompelaMX"
+[[params.social]]
+    title = "facebook"
+    icon = "facebook"
+    url = "https://www.facebook.com/rompelamx"
+[[params.social]]
+    title = "instagram"
+    icon = "instagram"
+    url = "https://www.instagram.com/rompelamx/"
